@@ -2,9 +2,18 @@
 
 ## Text
 
-1. `Space /` Grep (Root Dir)
-1. `Space s b` Buffer Lines
+- `Space /` Grep (Root Dir)
+- `Space s b` Buffer Lines
 
 ## File
 
-1. `Space 󱁐` Find Files (Root Dir)
+- `Space 󱁐` Find Files (Root Dir)
+
+## Telescope preview
+
+- `<Space><C-v>` Open in a vertical split
+- `<Space><C-s>` Open in a horizontal split
+- `<Space><C-t>` Open in new Tab
+
+- `<Space><C-f>` Preview scrolling down
+- `<Space><C-b>` Preview scrolling up
