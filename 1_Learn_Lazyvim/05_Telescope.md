@@ -9,6 +9,10 @@
 
 - `Space 󱁐` Find Files (Root Dir)
 
+## Text and File
+
+- `Space / name C-g fileName` The "Refine" Method
+
 ## Telescope preview
 
 - `<Space><C-v>` Open in a vertical split
