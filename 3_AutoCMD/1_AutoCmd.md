@@ -1,5 +1,8 @@
 # Auto Change Theme When enter a markdown file type
 
+> [!WARNING]
+> Just for Test AutoCMD
+
 ```lua
 -- WARN: This not works perfect
 
